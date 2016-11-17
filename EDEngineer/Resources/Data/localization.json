@@ -1669,7 +1669,7 @@
       "es": "Error Irrecuperable",
       "de": null,
       "fr": "Erreur Fatale",
-      "ru": null
+      "ru": "Неустранимая ошибка"
     },
     "Close": {
       "es": "Cerrar",
